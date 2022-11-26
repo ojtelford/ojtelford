@@ -12,7 +12,7 @@ My current goal is to join an organization where I can continue to develop this 
 ## Data Science Experience
 
 
-General Assembly - Data Science Immersive: 
+#### General Assembly - Data Science Immersive: 
 Jun 2021 – Aug 2021
 
 Highly vocational and intensive 12 week Data Science bootcamp. Course included highly involved daily learning accompanied by consistent project deliverables focused on several areas of data science including: exploratory data analysis, data wrangling, predictive modeling and others.
